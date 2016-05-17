@@ -56,6 +56,9 @@
 + [Connect架构初探 for 新手](http://cnodejs.org/topic/51a2f562776b2e7f035f2850)
 + [使用 Express + Socket.IO 搭建多人聊天室](http://cnodejs.org/topic/51d51cd8d44cbfa3047926ba)
 
+####国人最火的开源web框架ThinkJs
++ [HomePage](https://thinkjs.org/)
+
 ####国人开源web框架rrestjs
 + [HomePage](http://rrest.cnodejs.net/)
 
